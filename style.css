@@ -1,0 +1,19 @@
+:root {
+    background-color:steelblue;}
+   
+
+
+.heading{
+    background-color: darkblue;
+    font-size: 20px;
+    border: 10vh;
+    border: 10vw;
+    padding-left: 2.5%;
+    padding-top: 2.5%;
+    padding-right: 2.5%;
+    padding-bottom: 2.5%;
+}   
+.hint-container{
+    background-color:aqua;
+    
+}
